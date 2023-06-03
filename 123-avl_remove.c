@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * avl_remove - a function that removes a node from an AVL tree
+ * avl_remove - a function which removes a node from an AVL tree
  *
  * @root: is a pointer to the root node of the tree
  * for removing a node
